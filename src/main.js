@@ -129,8 +129,7 @@ function setupCopy(buttonId, codeSelector) {
   });
 }
 
-setupCopy('copy-https');
-setupCopy('copy-ssh');
+setupCopy('copy-url');
 
 // ============================================
 // Header scroll effect
