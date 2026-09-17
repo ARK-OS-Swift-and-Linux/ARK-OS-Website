@@ -129,7 +129,7 @@ function setupCopy(buttonId, codeSelector) {
   });
 }
 
-setupCopy('copy-url');
+setupCopy('copy-url')
 
 // ============================================
 // Header scroll effect
